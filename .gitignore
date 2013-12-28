@@ -20,3 +20,11 @@
 
 # Ignore the RubyMine project directory.
 .idea/
+
+# Ignore other unneeded files.
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
